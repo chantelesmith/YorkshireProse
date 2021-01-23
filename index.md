@@ -1,4 +1,5 @@
 ## Yorkshire Prose
+![GitHub Logo](Icon-App-83.5x83.5@2x.png)
 
 The app for those who love the yorkshire dialect.  
 
